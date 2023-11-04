@@ -79,7 +79,7 @@ If you don't want to have your credentials saved globally (i.e. you're dealing w
 AWS_ACCESS_KEY_ID=xxxx AWS_SECRET_ACCESS_KEY=xxxx npm run deploy
 ```
 
-Additionally, these can be set in a local `.env` file too, but this requires a bit more setup work. [See the recipe here](recipes/with-dotenv.md).
+Additionally, these can be set in a local `.env` file too, but this requires a bit more setup work. [See the recipe here](https://github.com/gatsby-uc/gatsby-plugin-s3/blob/master/gatsby-plugin-s3/recipes/with-dotenv.md).
 
 ## Configuration
 
